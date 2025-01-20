@@ -13,6 +13,7 @@ logs/*.log
 
 # TypeScript
 *.tsbuildinfo
+tsconfig.build.json  # Se usado apenas para builds
 
 # Dist/Build output
 dist/
